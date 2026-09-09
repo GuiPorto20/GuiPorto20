@@ -1,16 +1,165 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GuiPorto20/GuiPorto20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Guilherme Porto
 
-Here are some ideas to get you started:
+### Software Developer • Java • Spring Boot • Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software developer focused on building **APIs, web applications, and distributed systems**, with an interest in clean code, well-structured architectures, and scalable solutions.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Porto-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guilherme-porto-6533502b7/)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```java id="bqzaf1"
+public class Guilherme {
+
+    String role = "Software Developer";
+
+    String[] mainStack = {
+        "Java",
+        "Spring Boot",
+        "Angular",
+        "PostgreSQL"
+    };
+
+    String[] interests = {
+        "Backend Development",
+        "Software Architecture",
+        "Distributed Systems",
+        "IoT"
+    };
+
+    boolean alwaysLearning = true;
+}
+```
+
+* 🎓 Studying **Multiplatform Software Development**
+* ☕ Mainly focused on **Java & Spring Boot**
+* 🌐 Building web applications with **Angular & TypeScript**
+* 🐳 Using **Docker** for development and infrastructure
+* 📨 Working with event-driven systems using **RabbitMQ**
+* 🗄️ Experience with relational and NoSQL databases
+* 🔌 Exploring **IoT, ESP32, and MQTT**
+* 🧠 Interested in software architecture, microservices, and distributed systems
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,html,css" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx" />
+</p>
+
+### Messaging & IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,arduino" />
+</p>
+
+`RabbitMQ` • `MQTT` • `ESP32`
+
+---
+
+## 🚀 What I Like to Build
+
+```text id="7ct6fj"
+┌─────────────────────────────────────────────┐
+│                                             │
+│   Frontend                                  │
+│      │                                      │
+│      ▼                                      │
+│   Angular / React                           │
+│      │                                      │
+│      ▼                                      │
+│   REST API                                  │
+│      │                                      │
+│      ▼                                      │
+│   Java + Spring Boot                        │
+│      │                                      │
+│      ├──────────► PostgreSQL                │
+│      │                                      │
+│      └──────────► RabbitMQ                  │
+│                      │                      │
+│                      ▼                      │
+│                 Microservices               │
+│                      │                      │
+│                      ▼                      │
+│                 MQTT / ESP32                │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 💡 Areas of Interest
+
+<div align="center">
+
+`Backend Development`   •  
+`REST APIs`   •  
+`Microservices`
+
+`Software Architecture`   •  
+`Event-Driven Architecture`
+
+`Docker`   •  
+`RabbitMQ`   •  
+`IoT`
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuiPorto20&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiPorto20&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/GuiPorto20/GuiPorto20/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building, learning, and improving — one commit at a time.
+
+</div>
