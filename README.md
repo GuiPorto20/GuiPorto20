@@ -140,9 +140,12 @@ public class Guilherme {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuiPorto20&show_icons=true&hide_border=true&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiPorto20&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuiPorto20&theme=github_dark" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiPorto20&layout=compact&hide_border=true&theme=github_dark" />
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuiPorto20&theme=github_dark" />
 
 </div>
 
@@ -152,7 +155,7 @@ public class Guilherme {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/GuiPorto20/GuiPorto20/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/GuiPorto20/GuiPorto20/gh-pages/github-contribution-grid-snake-dark.svg)
 
 </div>
 
