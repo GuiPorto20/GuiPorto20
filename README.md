@@ -136,16 +136,13 @@ public class Guilherme {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuiPorto20&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuiPorto20&theme=github_dark" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuiPorto20&theme=github_dark" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuiPorto20&theme=github_dark&utcOffset=-3"
+/>
 
 </div>
 
